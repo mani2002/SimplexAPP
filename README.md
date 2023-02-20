@@ -34,6 +34,8 @@ subject to the constraints
 (i) 2x1 + 3x2 ≤ 30,  
 (ii) 3x1 + 2x2 ≤ 24,  
 (iii) x1 + x2 ≥ 3  
-and x1, x2 ≥ 0**
+and x1, x2 ≥ 0**  
 
-![example](url)
+We can enter this problem into the calculator. After clicking on the Solve button, the calculator will display the following output:  
+
+![example](https://github.com/mani2002/SimplexAPP/blob/main/Example.png)
